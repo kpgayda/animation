@@ -30,22 +30,22 @@ img {
   display: flex;
 }
 
-/*translate animation*/
+/*applys animation to arrow*/
 .translate:hover img {
   transform: translate(15px, 0);
 }
 
-/*rotate animation*/
+/*applys animation to hammer*/
 .rotate:hover img {
   transform: rotate(45deg);
 }
 
-/*scale animation*/
+/*applys animation to heart*/
 .scale:hover img {
   transform: scale(1.5);
 }
 
-/*skew animation*/
+/*applys animation to box*/
 .skew:hover img {
   transform: skew(50deg, 0);
 }
